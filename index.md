@@ -1,6 +1,6 @@
 # **Notes for reading**
 ## Brock Dickson
-## Growth Mindset
+# Growth Mindset
 ### What is a growth mindset?
 Growth mindset is the mindset that you can achieve anything as long as you work hard enough and perservere. this mindset often helps you to grow because it enables that thinking of if I do my best I will get better.
 
