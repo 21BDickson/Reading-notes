@@ -1,4 +1,5 @@
-# **Notes for reading**
+# **Reading Notes**
+## This page is for notes on reading.
 ## Brock Dickson
 # Growth Mindset
 ### What is a growth mindset?
@@ -9,3 +10,5 @@ Growth mindset is the mindset that you can achieve anything as long as you work 
 1. Push on. Even when you don't feel your best you can still do amazing work.
 2. Think about the end results. How good will it look and how smooth will the end product be?
 3. How can you do better? What can you do to push yourself?
+
+[Reading_Day_9](Reading_Day_9.md)
